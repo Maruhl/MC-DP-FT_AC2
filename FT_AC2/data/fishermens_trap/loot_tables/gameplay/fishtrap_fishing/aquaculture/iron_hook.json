@@ -1,0 +1,151 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 60,
+          "name": "aquaculture:atlantic_cod"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 25,
+          "name": "aquaculture:blackfish"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "aquaculture:pacific_halibut"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:atlantic_herring"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:pink_salmon"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:pollock"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:rainbow_trout"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:bayad"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:boulti"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:capitaine"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:synodontis"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:smallmouth_bass"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:bluegill"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:brown_trout"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:carp"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:catfish"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:gar"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:minnow"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:muskellunge"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:perch"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:arapaima"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:piranha"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:tambaqui"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:brown_shrooma"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:red_shrooma"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:red_grouper"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:tuna"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "aquaculture:neptunes_bounty_loot"
+        }
+      ]
+    }
+  ]
+}
